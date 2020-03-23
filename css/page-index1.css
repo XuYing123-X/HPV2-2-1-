@@ -1,0 +1,187 @@
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	width: 100%;
+	height: 100%;
+}
+
+.box{
+	width: 100%;
+	height: 100%;
+}
+
+.box1{
+	height: 30%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.banner{
+	width: 100%;
+	height: 100%;
+}
+
+.box2{
+		background-color: #ededed;
+		width: 100%;
+		height: 70%;
+		position:relative;
+		
+}
+
+.HVP {
+	
+	padding-left: 3.75rem;
+	font: bold  2.9075rem   黑体;
+	color: #4e881a;
+}
+.yf, .yf , .ys , .nl , .ym {
+	
+	padding-left: 3.75rem;
+	font:2.1875rem 黑体;
+	}
+	
+.yi,.er{
+	margin-bottom:3.1875rem;
+	padding-left: 3.75rem;
+	font:2.9075rem   黑体;
+
+}
+
+	
+.tian{
+	margin-bottom:3.1875rem;
+	padding-left: 3.75rem;
+	font: bold 3.9075rem   黑体;
+	color: #4e881a;
+}
+
+.da{
+	margin-bottom:3.1875rem;
+	padding-left: 3.75rem;
+	font: bold 3.9075rem   黑体;
+	color: #4e881a;
+}
+.btn_div1{
+	width: 15rem;
+	height: 5rem;
+	margin: auto;
+	position:absolute;
+	top:45.1875rem;
+	left:16.9375rem;
+}
+
+.btn{
+	width: 100%;
+	height: 100%;
+	background-color: #afce11;
+	border-radius: 25px;
+	font-size: 1.5625rem;
+	color: #fefefe;
+	border: 0.1875rem solid #ffffff;
+}
+.userID{
+	margin-left: 3.9375rem;
+	width: 16.5rem; 
+	height:3.25rem;
+	border: solid #b1d392;
+	border-radius: 25px;
+	background-color: #ededed;
+	
+	}
+.userID1{
+	margin-left: 3.9375rem;
+	width: 21.5625rem; 
+	height:3.3125rem;
+	border: solid #b1d392;
+	border-radius: 25px;
+	background-color: #ededed;
+}
+.bj{
+	width: 100%;
+	height: 100%;
+	background:url(../img/tupian/page11_03.png) no-repeat;
+	background-size: 100% 100%;
+	/* border: 50px solid red; */
+	padding: 0;
+	margin: 0;
+}
+.bj2{
+	width: 100%;
+	height: 20%;
+	background: url(../img/tupian/page12_03.png) no-repeat;
+	background-size:80% 100% ;
+	position: absolute;
+	top:58.75rem ;
+	margin-right: 50px;
+}
+.bj3{
+	width: 100%;
+	height: 100%;
+	background:url(../img/tupian/erweima_03.png) no-repeat;
+	background-size: 100% 100%;
+	padding: 0;
+	margin: 0;
+}
+
+.xian{
+	position: absolute;
+	left:22.875rem;
+	top:51.4375rem;
+	
+}
+.fc{
+	position: absolute;
+	left:5.3125rem;
+	top:58.4375rem;
+	text-align: center;
+}
+#mei{
+	font-weight: bold;
+}
+.nv{
+	text-align: center;
+}
+.qian{
+	text-align: center;
+}
+#box8{
+	background-color: #3E3E3E;
+}
+.gong{
+	position: absolute;
+	top: 25rem;
+	left: 10.125rem;
+	text-align: center;
+}
+.aoyang{
+	position: absolute;
+	top:68.875rem;
+	left:20.25rem;
+}
+.nin{
+	position: absolute;
+	top: 85.0625rem;
+	left: 7.725rem;
+	text-align: center;
+}
+
+#right{
+	float: right;
+
+}
+.n1{
+	display: inline-block;
+}
+#right1{
+	float: right;
+
+}
+.ym{
+	
+		display: inline-block;
+}
