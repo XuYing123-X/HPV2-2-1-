@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+	
+		<title>work2-2</title>
+		<link rel="stylesheet" type="text/css" href="../css/page-index2.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/reset.css"/>
+		<style>
+			#test-n1 .layui-laydate-main{width:54.46875rem;height:44.09375rem;background-color:#EDEDED ;border:0.1875rem solid #AFCE11;border-radius: 0.625rem;}  /* 整个日历的大小*/
+			#test-n1 .layui-laydate-content td,#test-n1 .layui-laydate-content th{width:7.5625rem;height: 5.625rem;font-size:2.3125rem;font-weight: bold;}
+		</style>
+	</head>
+	<body>
+		<div class="box">
+			<div class="box1">
+				<img class="banner" src="../img/tupian/page1.png" >
+			</div>
+			<div class="box2">
+				<div class="benri">本日HPV疫苗接种名额剩余(份):<span style="color:red">30</span> </div>
+				
+				<div class="layui-inline" id="test-n1" style="text-align: center;"></div>
+				<div class="btn_div2">
+					<button class="btn" onclick="location = 'work2-3.html'">提交
+						<!-- <a href="work2-3.html">提交</a> -->
+					</button>
+				</div>
+			</div>
+			
+		</div>
+		
+		<script src="/work/js/laydate/laydate.js"></script>
+			<script>
+			//执行一个laydate实例
+			laydate.render({
+			  elem: '#test-n1' //指定元素
+			  ,position: 'static'
+		      ,theme: '#B1CF18'
+			   ,showBottom: false   //删除底栏
+			});
+			
+			</script>
+		
+	</body>
+</html>
